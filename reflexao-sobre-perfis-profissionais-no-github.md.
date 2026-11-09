@@ -1,0 +1,24 @@
+Reflexão sobre perfis profissionais no GitHub
+
+Ao analisar 10 perfis profissionais no GitHub, entre desenvolvedores seniores, tech leads e mantenedores de projetos open source, identifiquei padrões comuns que se repetem nos perfis mais eficazes.
+
+O primeiro é a clareza no posicionamento do Profile README: os profissionais se apresentam em poucas linhas, com foco técnico bem definido, e utilizam badges e ícones apenas das tecnologias que realmente dominam, sem poluir a página.
+
+O segundo é a curadoria dos repositórios fixados (Pinned): eles escolhem de 3 a 6 projetos completos, com nomes descritivos e padronizados, evitando nomes genéricos como "trabalho1" ou "exercicio".
+
+O terceiro é o padrão de documentação dos READMEs: os projetos em destaque trazem visão geral, tecnologias utilizadas, instruções de execução, imagens ou GIFs de demonstração e guias claros de instalação, permitindo entender o sistema sem ler o código-fonte.
+
+O quarto padrão é a presença de licenças de software (MIT, Apache, GPL) e arquivos .gitignore bem estruturados, o que demonstra maturidade técnica e cuidado com boas práticas.
+
+Por fim, observei consistência de atividade: os perfis mais confiáveis mantêm contribuições regulares e participação visível em organizações e projetos da comunidade.
+
+Com base nessa análise, espelhei-me principalmente na clareza do posicionamento, na curadoria dos repositórios fixados e na padronização da documentação para reorganizar meu próprio GitHub, transformando-o em um cartão de visitas técnico mais organizado, acessível e com evidências concretas das minhas competências.
+
+Principais aprendizados
+A apresentação profissional deve ser clara e objetiva.
+Os projetos fixados devem demonstrar competências reais.
+A documentação é parte fundamental de um projeto.
+Boas práticas demonstram organização e maturidade técnica.
+A consistência contribui para construir uma presença profissional.
+
+Objetivo: desenvolver uma presença profissional no GitHub que represente meus conhecimentos, minha evolução e minhas competências em Tecnologia da Informação.
